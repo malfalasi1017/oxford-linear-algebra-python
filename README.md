@@ -90,4 +90,4 @@ Special thanks to Andre Lukas for providing the foundation for this project thro
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your.email@example.com].
+For any questions or suggestions, feel free to contact me at m.alfalasi1017@gmail.com
